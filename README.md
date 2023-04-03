@@ -126,7 +126,7 @@ Please open the **"Project-6-Random-Forest-Wine-Quality-Prediction.ipynb"** file
     
 ## Lessons Learned
 
-This is classification problem of Natural Language Processing which could be solved by above mentioned steps in Introduction.
+This is classification problem which could be solved by above mentioned steps in Introduction.
 
 ## 🚀 About Me
 I'm a DATA SCIENCE enthusiast...
