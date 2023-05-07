@@ -137,11 +137,11 @@ I'm a DATA SCIENCE enthusiast...
 Machine Learning, Deep Learning - ANN,CNN,RNN, Computer Vision,NLP,Statistics,Strategic Planning, Urban Planning, Python, PostgreSQL, PowerBI, Tableau, Excel, GIS
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhil-wakode
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://nikhil2893.github.io/Portfoilio_Nikhil/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhil-wakode/
 )
 
 ## Feedback
 
 If you have any feedback, please reach out to us at 
-ar.nikhilwakode@gmail.com
+nikhilwakode2893@gmail.com
